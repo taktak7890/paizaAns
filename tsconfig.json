@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "module": "Node16",                                /* Specify what module code is generated. */
+    "outDir": "./dist3"
+  },
+  "include": ["src/*", "sample.ts", "stdin.js", "stdin.d.ts"],
+}
